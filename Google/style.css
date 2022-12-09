@@ -1,0 +1,91 @@
+img{
+    margin-left: 38% ;
+    margin-top: 0;
+}
+.textt {
+    background-color: white;
+    
+    margin-left: 38%;
+}
+.container{
+    background-color: rgb(238, 238, 238);
+    width: 88%;
+    height: 65px;
+    margin: 0% 5%;
+    
+}
+.p{
+    text-align: center;
+    margin-bottom: 0%;
+}
+.btn1{
+    margin-left: 42%;
+    
+    
+}
+.list{
+    background-color:rgb(112, 204, 194);
+    width: 450px;
+    height: 70px;
+    padding: 1px 8px 10px 0px;
+    float: left;
+    margin-top: 5px;
+    font-size: 15px;
+    
+}
+a{
+    text-decoration: underline;
+}
+.list1{
+    list-style: none;
+    text-align:center;
+}
+.list1 a{
+   
+    text-decoration: none;
+   
+}
+.listtwo{
+    background-color: rgb(112, 204, 194);
+    width: 250px;
+    height: 71px;
+    padding: 0px 8px 10px 0px;
+    float: left;
+    margin-top: 5px;
+    margin-left: 1px;
+    text-align: center;
+    font-size: 13px;
+    
+}
+.listtwo a{
+    margin-right: 40px;
+}
+.listthree{
+    background-color: rgb(112, 204, 194);
+    width: 611px;
+    height: 70px;
+    padding: 1px 8px 10px 0px;
+    float: left;
+    margin-top: 5px;
+    margin-left: 1px;
+    font-size: 14px;
+    
+}
+.listthree p{
+    text-align: center;
+    margin-top: -2px;
+    margin-bottom: 0px;
+    font-size: 13px;
+}
+.listthree input{
+    padding: 1px 2px;
+    margin-left: 35%;
+}
+.listthree button {
+    margin-left: 240px;
+}
+footer p{
+    text-align: center;
+    margin-top: 8%;
+    font-size: 13px;
+}
